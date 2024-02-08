@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Loc Mathias Nguyen 
 
-- I'm currently a third-year student in Haaga-Helia University of Applied Sciences studying to become a software developer.
+- I'm currently a third-year student in Haaga-Helia University of Applied Sciences studying to become a full- stack web developer and software developer.
 
 - Programming has truly been my passion for a while now and I really like solving problems with designing and coding. I also enjoy desiging webs and seeing my work/code come to life. In addition, I am also into the analytical and mathematical approach that coding will successfully deal with practical challenges.
 
